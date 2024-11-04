@@ -1,4 +1,4 @@
-![Swagify Banner](.client/public/logo.png)
+![Swagify Banner](client/public/logo.png)
 
 # 👕 Swagify
 
