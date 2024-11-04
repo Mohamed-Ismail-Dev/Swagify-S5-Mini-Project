@@ -46,10 +46,10 @@
   - **Add your Hugging Face API key to the environment variables.**
 
 ### 4.Run the App:
-    ```bash
+   
        cd client
        npm run dev
-    ```
+    
 
 ## 🎨 Usage
 
