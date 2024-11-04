@@ -35,10 +35,10 @@
   ```
 
 ### 2.Install dependencies:
-    ```bash
-    cd swagify
-    npm install
-    ```
+
+       cd swagify
+       npm install
+   
 
 ### 3.Set up the backend:
 
@@ -47,8 +47,8 @@
 
 ### 4.Run the App:
     ```bash
-    cd client
-    npm run dev
+       cd client
+       npm run dev
     ```
 
 ## 🎨 Usage
